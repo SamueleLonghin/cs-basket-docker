@@ -29,7 +29,7 @@ Probabilmente se qualcuno proverà mai a leggere il codice sarà l'ultima cosa c
 - [avviare il docker](#per-avviare-il-tutto)
 - andare su [http://localhost:8080](http://localhost:8080)
 
-### Per fermare il tutto: {stop}
+### Per fermare il tutto: 
 
 - aprire un terminale nella cartella radice della repo
 - eseguire `docker-compose down`
