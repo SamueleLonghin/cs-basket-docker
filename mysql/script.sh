@@ -1,1 +1,0 @@
-mysql -u root  --password=secret  < /home/bascket.sql
