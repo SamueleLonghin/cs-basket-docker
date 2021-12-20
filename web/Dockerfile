@@ -15,7 +15,7 @@ RUN apt-get install -y \
     && docker-php-ext-install zip
 
 # Clone the conf files into the docker container
-RUN git clone https://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@github.com/SamueleLonghin/cs-basket
+RUN git clone https://github.com/SamueleLonghin/cs-basket
 RUN cd cs-basket
 RUN chmod -R 777 ./
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
