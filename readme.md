@@ -26,7 +26,7 @@ Probabilmente se qualcuno proverà mai a leggere il codice sarà l'ultima cosa c
 
 ### Per visualizzare il servizio
 
-- [avviare il docker](#start)
+- [avviare il docker](#per-avviare-il-tutto)
 - andare su [http://localhost:8080](http://localhost:8080)
 
 ### Per fermare il tutto: {stop}
