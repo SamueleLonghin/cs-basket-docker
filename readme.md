@@ -15,7 +15,7 @@ Per la parte di DataBase è stato usato mysql (anche questo molto male).
 
 Probabilmente se qualcuno proverà mai a leggere il codice sarà l'ultima cosa che si troverà a leggere da quanto è scritto male ma a mia discolpa questo è stato il mio vero primo progetto ed è stato realizzato in pochissimo tempo ed in fretta... Vi auguro buona visione
 
-# Utilizzo {utilizzo}
+# Utilizzo 
 
 ### Per avviare il tutto:
 
