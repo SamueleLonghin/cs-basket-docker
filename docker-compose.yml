@@ -28,7 +28,7 @@ services:
       - MYSQL_DBPORT=3306
       - MYSQL_DBUSER=root
       - MYSQL_DBPASS=secret
-      #- MYSQL_DBNAME=
+      - MYSQL_DBNAME=basket
     ports:
       - 8080:80
       - 8083:443
